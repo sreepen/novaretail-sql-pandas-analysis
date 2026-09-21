@@ -2,7 +2,7 @@
 
 ## Project overview
 
-This is a beginner-friendly data analytics portfolio project about a fictional electronics retailer. It uses SQL and Pandas to answer four business questions:
+This is a data analytics portfolio project about a fictional electronics retailer. It uses SQL and Pandas to answer four business questions:
 
 1. How are sales changing over time?
 2. Which product categories drive sales and estimated margin?
