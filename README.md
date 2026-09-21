@@ -53,6 +53,8 @@ NovaRetail should test a loyalty offer that bundles accessories with laptop or p
 ### Monthly sales
 
 ![Monthly sales](figures/monthly_sales.png)
+<img width="1483" height="728" alt="monthly_sales" src="https://github.com/user-attachments/assets/d4af2083-0c82-4e08-b8eb-ac9971359fbe" />
+
 
 ### Category sales
 
@@ -60,7 +62,8 @@ NovaRetail should test a loyalty offer that bundles accessories with laptop or p
 
 ### Channel sales
 
-![Channel sales](figures/channel_sales.png)
+![Channel sales](figures/ch![Uploading monthly_sales.png…]()
+annel_sales.png)
 
 ### Customer spending concentration
 
