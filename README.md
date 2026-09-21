@@ -48,7 +48,7 @@ The data covers January 2023 through December 2025 and includes seasonal holiday
 
 NovaRetail should test a loyalty offer that bundles accessories with laptop or phone purchases for high-value online customers. This builds on the company's strongest channel, protects valuable customers, and adds higher-margin products to core-device purchases.
 
-## Example charts
+## Charts
 
 ### Monthly sales
 
@@ -80,8 +80,6 @@ novaretail-sql-pandas-starter/
 │   ├── category_sales.png
 │   ├── channel_sales.png
 │   └── customer_quartiles.png
-├── docs/
-│   └── GITHUB_INSTRUCTIONS.md
 ├── NovaRetail_SQL_Pandas_Analysis.ipynb
 ├── README.md
 └── requirements.txt
@@ -135,6 +133,4 @@ The notebook contains four readable SQL analyses:
 ## What I learned
 
 This project demonstrates how to connect multiple datasets, clean common data-quality issues, answer business questions with SQL, validate calculations with Pandas, create readable charts, and translate results into a recommendation.
-
-For step-by-step publishing instructions, see [How to put this project on GitHub](docs/GITHUB_INSTRUCTIONS.md).
 
