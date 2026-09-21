@@ -52,22 +52,23 @@ NovaRetail should test a loyalty offer that bundles accessories with laptop or p
 
 ### Monthly sales
 
-![Monthly sales](figures/monthly_sales.png)
 <img width="1483" height="728" alt="monthly_sales" src="https://github.com/user-attachments/assets/d4af2083-0c82-4e08-b8eb-ac9971359fbe" />
 
 
 ### Category sales
 
-![Category sales](figures/category_sales.png)
+<img width="1335" height="730" alt="category_sales" src="https://github.com/user-attachments/assets/b20e2213-6807-469a-bb8b-c639cc30ddf4" />
+
 
 ### Channel sales
 
-![Channel sales](figures/ch![Uploading monthly_sales.png…]()
-annel_sales.png)
+<img width="1483" height="728" alt="monthly_sales" src="https://github.com/user-attachments/assets/9886e86e-ae48-48fd-b49f-1ee436ec3ec6" />
+
 
 ### Customer spending concentration
 
-![Customer quartiles](figures/customer_quartiles.png)
+<img width="1183" height="730" alt="customer_quartiles" src="https://github.com/user-attachments/assets/3c856c21-1f15-4b23-9af6-ecfa6da1f5ef" />
+
 
 ## Project structure
 
